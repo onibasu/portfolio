@@ -235,6 +235,26 @@ export default function Learning() {
           </div>
         </div>
       </div>
+
+      <div className="mb-16 mt-16">
+        <h2 className="mb-6 text-xl font-heading sm:text-2xl">Tools for making this website</h2>
+        <div className="text-base sm:text-lg">
+          <ul className="list-disc pl-6 space-y-2">
+            <li>
+              <a href="https://www.cursor.com/" target="_blank" rel="noopener noreferrer" className="text-main-foreground hover:underline font-semibold">⌨️ Cursor</a> – AI-powered code editor for building this site
+            </li>
+            <li>
+              <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer" className="text-main-foreground hover:underline font-semibold">⚡ Next.js</a> – React framework for the frontend
+            </li>
+            <li>
+              <a href="https://www.neobrutalism.dev/" target="_blank" rel="noopener noreferrer" className="text-main-foreground hover:underline font-semibold">🎭 Neobrutalism</a> – Theme and components for the design system
+            </li>
+            <li>
+              <a href="https://github.com/" target="_blank" rel="noopener noreferrer" className="text-main-foreground hover:underline font-semibold">📚 GitHub</a> – Version control
+            </li>
+          </ul>
+        </div>
+      </div>
     </div>
   )
 } 
