@@ -38,11 +38,9 @@ export default function Learning() {
             className="p-4 border-2 border-black dark:border-white rounded-lg flex gap-4 bg-white dark:bg-black shadow-shadow h-[160px]"
           >
             <div className="flex-shrink-0">
-              <img 
-                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361970590l/18241647._SY75_.jpg"
-                alt="Decisive: How to Make Better Choices in Life and Work"
-                className="w-12 h-18 object-cover rounded"
-              />
+              <div className="w-12 h-18 bg-gray-200 dark:bg-gray-700 rounded flex items-center justify-center text-xs text-gray-500 dark:text-gray-400">
+                📚
+              </div>
             </div>
             <div className="flex flex-col justify-between flex-grow">
               <div>
@@ -68,11 +66,9 @@ export default function Learning() {
             className="p-4 border-2 border-black dark:border-white rounded-lg flex gap-4 bg-white dark:bg-black shadow-shadow h-[160px]"
           >
             <div className="flex-shrink-0">
-              <img 
-                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703181454l/198678736._SY75_.jpg"
-                alt="Co-intelligence: Living and Working with AI"
-                className="w-12 h-18 object-cover rounded"
-              />
+              <div className="w-12 h-18 bg-gray-200 dark:bg-gray-700 rounded flex items-center justify-center text-xs text-gray-500 dark:text-gray-400">
+                📚
+              </div>
             </div>
             <div className="flex flex-col justify-between flex-grow">
               <div>
@@ -98,11 +94,9 @@ export default function Learning() {
             className="p-4 border-2 border-black dark:border-white rounded-lg flex gap-4 bg-white dark:bg-black shadow-shadow h-[160px]"
           >
             <div className="flex-shrink-0">
-              <img 
-                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703181454l/224133727._SY75_.jpg"
-                alt="Impact-first Product Teams"
-                className="w-12 h-18 object-cover rounded"
-              />
+              <div className="w-12 h-18 bg-gray-200 dark:bg-gray-700 rounded flex items-center justify-center text-xs text-gray-500 dark:text-gray-400">
+                📚
+              </div>
             </div>
             <div className="flex flex-col justify-between flex-grow">
               <div>
