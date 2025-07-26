@@ -32,54 +32,84 @@ export default function Learning() {
         <h2 className="text-2xl font-bold">Recent Reading</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
           <a 
-            href="https://www.goodreads.com/book/show/3828902-thinking-in-systems"
+            href="https://www.goodreads.com/book/show/18241647-decisive"
             target="_blank"
             rel="noopener noreferrer"
             className="p-4 border-2 border-black dark:border-white rounded-lg flex gap-4 bg-white dark:bg-black shadow-shadow h-[160px]"
           >
             <div className="flex-shrink-0">
               <img 
-                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1390169859l/3828902._SY75_.jpg"
-                alt="Thinking In Systems: A Primer"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361970590l/18241647._SY75_.jpg"
+                alt="Decisive: How to Make Better Choices in Life and Work"
                 className="w-12 h-18 object-cover rounded"
               />
             </div>
             <div className="flex flex-col justify-between flex-grow">
               <div>
                 <div className="font-medium line-clamp-3">
-                  Thinking In Systems: A Primer
+                  Decisive: How to Make Better Choices in Life and Work
                 </div>
-                <p className="text-sm text-gray-600 dark:text-gray-400">by Donella H. Meadows</p>
+                <p className="text-sm text-gray-600 dark:text-gray-400">by Chip Heath & Dan Heath</p>
               </div>
               <div className="flex items-center mt-2">
                 <span className="text-black dark:text-white">★</span>
                 <span className="text-black dark:text-white">★</span>
                 <span className="text-black dark:text-white">★</span>
-                <span className="text-black/20 dark:text-white/20">☆</span>
+                <span className="text-black dark:text-white">★</span>
                 <span className="text-black/20 dark:text-white/20">☆</span>
               </div>
             </div>
           </a>
 
           <a 
-            href="https://www.goodreads.com/book/show/58261060-four-thousand-weeks"
+            href="https://www.goodreads.com/book/show/198678736-co-intelligence"
             target="_blank"
             rel="noopener noreferrer"
             className="p-4 border-2 border-black dark:border-white rounded-lg flex gap-4 bg-white dark:bg-black shadow-shadow h-[160px]"
           >
             <div className="flex-shrink-0">
               <img 
-                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649313831l/58261060._SY75_.jpg"
-                alt="Four Thousand Weeks: Time Management for Mortals"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703181454l/198678736._SY75_.jpg"
+                alt="Co-intelligence: Living and Working with AI"
                 className="w-12 h-18 object-cover rounded"
               />
             </div>
             <div className="flex flex-col justify-between flex-grow">
               <div>
                 <div className="font-medium line-clamp-3">
-                  Four Thousand Weeks: Time Management for Mortals
+                  Co-intelligence: Living and Working with AI
                 </div>
-                <p className="text-sm text-gray-600 dark:text-gray-400">by Oliver Burkeman</p>
+                <p className="text-sm text-gray-600 dark:text-gray-400">by Ethan Mollick</p>
+              </div>
+              <div className="flex items-center mt-2">
+                <span className="text-black dark:text-white">★</span>
+                <span className="text-black dark:text-white">★</span>
+                <span className="text-black dark:text-white">★</span>
+                <span className="text-black dark:text-white">★</span>
+                <span className="text-black/20 dark:text-white/20">☆</span>
+              </div>
+            </div>
+          </a>
+
+          <a 
+            href="https://www.goodreads.com/book/show/224133727-impact-first-product-teams"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="p-4 border-2 border-black dark:border-white rounded-lg flex gap-4 bg-white dark:bg-black shadow-shadow h-[160px]"
+          >
+            <div className="flex-shrink-0">
+              <img 
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703181454l/224133727._SY75_.jpg"
+                alt="Impact-first Product Teams"
+                className="w-12 h-18 object-cover rounded"
+              />
+            </div>
+            <div className="flex flex-col justify-between flex-grow">
+              <div>
+                <div className="font-medium line-clamp-3">
+                  Impact-first Product Teams
+                </div>
+                <p className="text-sm text-gray-600 dark:text-gray-400">by Teresa Torres</p>
               </div>
               <div className="flex items-center mt-2">
                 <span className="text-black dark:text-white">★</span>
@@ -110,36 +140,6 @@ export default function Learning() {
                   How Big Things Get Done
                 </div>
                 <p className="text-sm text-gray-600 dark:text-gray-400">by Bent Flyvbjerg</p>
-              </div>
-              <div className="flex items-center mt-2">
-                <span className="text-black dark:text-white">★</span>
-                <span className="text-black dark:text-white">★</span>
-                <span className="text-black dark:text-white">★</span>
-                <span className="text-black dark:text-white">★</span>
-                <span className="text-black/20 dark:text-white/20">☆</span>
-              </div>
-            </div>
-          </a>
-
-          <a 
-            href="https://www.goodreads.com/book/show/52963508-the-science-of-storytelling"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="p-4 border-2 border-black dark:border-white rounded-lg flex gap-4 bg-white dark:bg-black shadow-shadow h-[160px]"
-          >
-            <div className="flex-shrink-0">
-              <img 
-                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588763709l/52963508._SY75_.jpg"
-                alt="The Science of Storytelling"
-                className="w-12 h-18 object-cover rounded"
-              />
-            </div>
-            <div className="flex flex-col justify-between flex-grow">
-              <div>
-                <div className="font-medium line-clamp-3">
-                  The Science of Storytelling
-                </div>
-                <p className="text-sm text-gray-600 dark:text-gray-400">by Will Storr</p>
               </div>
               <div className="flex items-center mt-2">
                 <span className="text-black dark:text-white">★</span>
