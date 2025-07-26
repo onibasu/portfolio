@@ -39,7 +39,7 @@ export default function Learning() {
           >
             <div className="flex-shrink-0">
               <img 
-                src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361970590i/18241647._UY75_CR,0,0,50,75_.jpg"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361970590l/18241647._SY75_.jpg"
                 alt="Decisive: How to Make Better Choices in Life and Work"
                 className="w-12 h-18 object-cover rounded"
               />
@@ -69,7 +69,7 @@ export default function Learning() {
           >
             <div className="flex-shrink-0">
               <img 
-                src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703181454i/198678736._UY75_CR,0,0,50,75_.jpg"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703181454l/198678736._SY75_.jpg"
                 alt="Co-intelligence: Living and Working with AI"
                 className="w-12 h-18 object-cover rounded"
               />
@@ -99,7 +99,7 @@ export default function Learning() {
           >
             <div className="flex-shrink-0">
               <img 
-                src="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703181454i/224133727._UY75_CR,0,0,50,75_.jpg"
+                src="https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703181454l/224133727._SY75_.jpg"
                 alt="Impact-first Product Teams"
                 className="w-12 h-18 object-cover rounded"
               />
