@@ -6,8 +6,8 @@ const PAST_ROLES: {
   endDate: string
 }[] = [
   {
-    company: 'the LEGO Group',
-    role: 'Senior Manager Specialist, Product & Agile coaching',
+    company: 'LEGO',
+    role: 'Senior Manager Specialist, Product & Agile coach',
     description: 'Working with tech teams to improve delivery and collaboration, and be happy shipping great products.',
     startDate: 'May 2024',
     endDate: 'Now',
