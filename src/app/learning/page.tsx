@@ -109,7 +109,7 @@ export default function Learning() {
                 <div className="font-medium line-clamp-3">
                   Impact-first Product Teams
                 </div>
-                <p className="text-sm text-gray-600 dark:text-gray-400">by Teresa Torres</p>
+                <p className="text-sm text-gray-600 dark:text-gray-400">by Matt Lemay</p>
               </div>
               <div className="flex items-center mt-2">
                 <span className="text-black dark:text-white">★</span>
